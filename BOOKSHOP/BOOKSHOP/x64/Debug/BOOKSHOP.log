@@ -1,0 +1,3 @@
+﻿  BOOKSHOP.cpp
+D:\PROJ C++\BOOKSHOP\BOOKSHOP\BOOKSHOP.cpp(90,13): warning C4101: 'r': unreferenced local variable
+  BOOKSHOP.vcxproj -> D:\PROJ C++\BOOKSHOP\x64\Debug\BOOKSHOP.exe
